@@ -88,7 +88,7 @@ img {
 
 .profile-image img {
     border-radius: 50%;
-    box-shadow: 0 0 50px #00ff15;
+    box-shadow: 0 0 50px #000000;
 }
 
 .profile-user-settings,
@@ -294,8 +294,6 @@ img {
         padding: 1.2rem 0;
         border-top: 0.1rem solid #dadada;
         border-bottom: 0.1rem solid #dadada;
-        border-radius: 50%;
-        box-shadow: 0 0 50px #00ff15;
     }
 
     .profile-stats li {
@@ -306,8 +304,6 @@ img {
 
     .profile-stat-count {
         display: block;
-        border-radius: 50%;
-        box-shadow: 0 0 50px #00ff15;
     }
 }
 
