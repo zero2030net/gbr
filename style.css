@@ -302,8 +302,6 @@ img {
         font-size: 1.4rem;
         flex: 1;
         margin: 0;
-        border-radius: 50%;
-        box-shadow: 0 0 50px #00ff15;
     }
 
     .profile-stat-count {
