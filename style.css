@@ -86,6 +86,7 @@ img {
 
 .profile-image img {
     border-radius: 50%;
+    box-shadow: 0 0 50px #ccc;
 }
 
 .profile-user-settings,
